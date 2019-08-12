@@ -17,7 +17,7 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Hello! This is an automated message.\n\n`"
+UNAPPROVED_MSG = ("`Hello! This is an automated message if `BOT` In the service of @Yadv_g.\n\n`"
                   "`I haven't approved you to PM yet.`"
                   "`Please wait for me to look in, I mostly approve PMs.\n\n`"
                   "`Until then, please don't spam my PM, you'll get blocked and reported!`")
