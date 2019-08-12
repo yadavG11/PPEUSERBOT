@@ -17,6 +17,7 @@ from userbot.events import register
 from userbot.modules.sql_helper.globals import gvarstatus, addgvar, delgvar
 
 AFKSTR = [
+        "@ Yadv_g is AFK! now ,Dont Spam HIS PM !! KEK THANKS!",
         "I'll be back in a couple of minutes... If not, read this status again!",
         "I'll be back in a couple of hours. I didn't say starting from when.",
         "If I'm not back in half an hour... please wait a little longer.",
